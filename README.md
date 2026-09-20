@@ -1,217 +1,62 @@
-# Olá, eu sou Anna Clara
+# Olá, eu sou Anna Clara <img src="https://raw.githubusercontent.com/MartinMuzatko/gif-emojis/master/gif/wave.gif" width="30px">
 
-### Estudante de Engenharia de Software | Desenvolvedora BackEnd em formação
+### Bacharelanda em Engenharia de Software | Desenvolvedora Backend em formação
 
-Sou estudante de **Engenharia de Software**, com foco em **desenvolvimento backend** e construção de aplicações de software.
+Sou estudante do 2º período de Engenharia de Software na Unipê, com foco em **desenvolvimento backend** e na construção de APIs e aplicações robustas.
 
-Atualmente estou desenvolvendo minha base técnica em **Java, Python, SQL, APIs REST, Programação Orientada a Objetos, Estruturas de Dados, Algoritmos, Git e GitHub**, enquanto avanço meus estudos em **Spring Boot, bancos de dados, Docker, segurança de aplicações e arquitetura de software**.
-
-Meu objetivo é transformar conhecimento em projetos reais, escrever código organizado e evoluir continuamente como desenvolvedora de software.
+Atualmente, dedico-me ao estudo profundo das linguagens **Java (com ecossistema Spring), Python e C**, além de explorar **bases de dados relacionais e segurança de software**. O meu objetivo é transformar o conhecimento acadêmico em soluções reais, legíveis e escaláveis.
 
 ---
 
-## Sobre mim
+## Tecnologias e Conhecimentos
 
-*  Estudante de **Engenharia de Software no P2**
-*  Foco em **Desenvolvimento Backend**
-*  Estudando e desenvolvendo aplicações com **Java**
-*  Experiência acadêmica e prática com **Python**
-*  Desenvolvimento de **REST APIs**
-*  Estudando **SQL e bancos de dados relacionais**
-*  Praticando **Estruturas de Dados, Algoritmos e Programação Orientada a Objetos**
-*  Utilizando **Git e GitHub** para versionamento e colaboração
-*  Explorando **Docker** e ambientes de desenvolvimento
-*  Tenho um grande interesse em **cibersegurança, começarei uma graduação em breve**
-*  Em constante evolução em **Engenharia de Software e Desenvolvimento Backend**
+**Backend:** Java, Python, C, Spring Boot, APIs RESTful, POO, Spring Security, JWT
+**Bases de Dados:** SQL, PostgreSQL, MySQL, Modelagem de Dados, ORM (JPA/Hibernate)
+**Engenharia & Práticas:** Algoritmos, Estruturas de Dados, Código Limpo, Arquitetura de Software
+**DevOps & Ferramentas:** Git, GitHub, Docker, Maven, VS Code, IntelliJ IDEA
 
 ---
 
-## Tecnologias e conhecimentos
+## Projeto em destaque
 
-### Backend
+### OpsPilot
 
-* Java
-* Python
-* C
-* Spring Boot
-* REST APIs
-* Programação Orientada a Objetos (POO)
-* Autenticação e Autorização
-* JWT
-* Desenvolvimento de APIs
+Uma plataforma que analisa projetos de software automaticamente. Você sobe um .zip do seu código, e ela te devolve um diagnóstico completo.
 
-### Banco de Dados
-
-* SQL
-* PostgreSQL
-* MySQL
-* Bancos de dados relacionais
-* Modelagem de Banco de Dados
-* Operações CRUD
-
-### Desenvolvimento
-
-* Algoritmos
-* Estruturas de Dados
-* Engenharia de Software
-* Código Limpo
-* Tratamento de exceções
-* Arquitetura de Aplicação
-* Testes de Software
-
-### Ferramentas
-
-* Git
-* GitHub
-* Maven
-* Docker
-* VS Code
-* IntelliJ IDEA
-* Dev-C++
-
----
-
-## Projetos em destaque
-
-### LawFirm Management
-
-Sistema de gerenciamento para escritórios de advocacia, desenvolvido com foco em **backend e desenvolvimento de aplicações web**, utilizando tecnologias do ecossistema Java.
+Acesse o projeto: [OpsPilot Online]https://ops-pilot-lac.vercel.app/
+Código-Fonte: [Repositório no GitHub]https://github.com/Annaa-Clara/ops-pilot
 
 **Tecnologias:**
-Java • Spring Boot • REST API • SQL • PostgreSQL • JPA/Hibernate • Spring Security • JWT • Maven • Docker
-
-**Conceitos aplicados:**
-
-* Desenvolvimento de Backend
-* APIs RESTful
-* Autenticação
-* Autorização
-* Persistência em banco de dados
-* Validação de dados
-* Tratamento de exceções
-* Arquitetura de Software
----
-
-## Atualmente estudando
-
-```text
-Java
-C
-Spring Boot
-REST APIs
-SQL & PostgreSQL
-Programação Orientada a Objetos (POO)
-Estruturas de Dados e Algoritmos
-Git & GitHub
-Docker
-Arquitetura de Software
-Testes de Software
-```
+Python, Spring Boot, Spring Security, JWT, Spring Data JPA, API REST, PostgreSQL, Celery + Redis, Pydantic, JWT + Refresh Token + Bcrypt, Pytest
 
 ---
 
+## **Atualmente a aprofundar**
+
+* Arquitetura de Microsserviços e APIs REST avançadas
+* Testes Automatizados (JUnit e Mockito)
+* Fundamentos de **Cybersecurity & Red Team**
+
+---
+  
 ## Objetivo profissional
 
-Busco oportunidades de **estágio e posições de entrada em desenvolvimento de software**, especialmente nas áreas de **Desenvolvimento Backend, Java, C, Python, APIs REST e Engenharia de Software**.
-
-Tenho interesse em participar de equipes de desenvolvimento, aprender com profissionais experientes e contribuir para a construção de soluções de software bem estruturadas, seguras e escaláveis.
+Busco oportunidades de **estágio ou posições de entrada (Júnior) em Desenvolvimento Backend**, com foco em **Java, Python, C e APIs REST**. Tenho interesse em integrar equipes de desenvolvimento, aprender com profissionais experientes e contribuir para a construção de soluções seguras, bem estruturadas e escaláveis.
 
 ---
 
 ## Minha evolução
 
-Este GitHub registra minha jornada como desenvolvedora: desde os fundamentos de programação até a construção de aplicações completas.
+Esse GitHub registra minha jornada como desenvolvedora: desde os fundamentos da programação até a construção de aplicações completas.
 
-Aqui você encontrará projetos acadêmicos, projetos pessoais e aplicações desenvolvidas para praticar conceitos de **Software Engineering, Backend Development, APIs, Databases, Security e Web Development**.
+Aqui você encontrará projetos acadêmicos, projetos pessoais e soluções desenvolvidas para consolidar conceitos de **Engenharia de Software, Desenvolvimento Backend, APIs, Banco de Dados, Segurança e Web Desenvolvimento**.
 
----
-```text
-+++======++++++++==++=++++++++++===========+====+===+============+=======+=====+======++=--=+=++#*++=
-==+=======++++=++=+===++++++=+++===========+====++**++===========+========-====+=-+====+++++++***++=*
-=+======+=+*+++*+=++=+++++++=+++========+==+====++*++======++=+==+======----*+==----=+==+*#*++---++==
-=======+==+*+++*+=++=++++++++++++=++====+=++==++++*#++=====++=++=+===+==--====++====--==-+##++==**=--
-+======+=+**+++*+=+++++++++++++++=+=====+=++==++++*++++====++=+==+=====+++=++=++=-----=--*##+##*=----
-+++++=++=+*++++*+=+++++++++++++++=+==+==+=++*++++*++*+++***#*+++=+===+===+==+=++==+==---=*=+***++==--
-+=+*++++=+*+++**+=+=++++=++=+++++=++=+==+*+*++*###%##**+*=++**##+*+==+=+=+=++=++==+=+=+==--=-++-===+-
-*+++++++=+*+++**==+=+++++++=+++++=+===+=+**##%##*++#++*++##*+*=+#%+====+++==+=++==++==+=-----=*--=**=
-*+==++*+=+++++**==+++++++++++++++++=*++++#%##*+##*+#++#**#*##++++##++==+*++++=++==--+=++*=====+=*=---
-++=====+*+*+++**=++++++++++++++++++*+**####+#**#*++#=+*+*#**#+#****#*+=+*++++=++=-=++=*#*++=----==*++
-*==++==+**++++*+==+=++++++++++++++#*+*#%#**=#*+#*++#+=#++*+*#+#*+++*#*++*++++++===--===*##=--+==++##+
-=*++++=+**++++*+=++++++++++++=++=+++*%%###*+**+**++#++#+***##*#*#***#%*+*+=----=-++++***==-*====--==-
-+==+++=++#*+++++=++++++++++++++++*++#%#*+**=**+*#++#++#+*++*#*#*##**+%#+++-==-=-===++====--++--**+=--
-==+++++==*#+++++=+++++++++++++++*++*####***=**+**++#++*++++*#######*+==*##*+======+----=*====-=-+++*=
-==+++++++**+++++=+++++++++++++++*+*#%*##**#**##*#**#***+*+**#*#**#%#**#%#++=====-++====--===-==---==+
-=++++++++==**+++=+++++++++++++++=+*%####+*++*#++*++##@@@@@%###+*###%#=-*%=-+-==##**--=====**====--+**
-=+++++++++++++++++++++++*++++++*++*%%*#*+*+++#++*+*@@@@@@@@@%***######**=+++=+++++++*+--**+#+----+#*+
-=++++++++++++++++++++++++++++++*+*%%#*##***++#++**@@%%%%%@@@@%#####%#**#%*+==*#*==++=---+==*#*=-==*+=
-+++++++++++++++++++++++++*++++++=*#%#*#*+**++#*+#@#%+=--=+@@@@***##*#**#%++====-=*#=---=+=++-------::
-++++++++*++++++++++++++++*++++*++#%####****++#+++*#=**==++%@@%######%#*#%#++==+=-+=-+====###=-==----=
-++++++++*+++++++++++++*+*+++++*+*#%#*********##%+#=--==+*#%@@#***#####**%%+=++++-===-*#--*+*--==-----
-++++++++*+++++++++++++***++++++=+#%###***+*+*%@@%========+%@@%**####**+**%++++++*+=+*=-+++***+===--==
-++++++++++++++++++++++**+++++++=+#%#***##*###%@@#+=-=+*=+#%@@%****#**#*+#%+++++++=++==+++=--##+*+=+--
-++++++++*+++++++++++++****+++***#%%**#*#+***#%@@@+++++*%@%@@@#****##*#*+*%*+++++==++*=+=---+++++**=*=
-*+++++=++++++*++=+++++****+++*++#%%**#*%###%%@@@%++*##@@@@@@@###**#*+#*++%%+++++====+==+=-=%%*===-==+
-++++++++++++++++=+++++****++**++%%#**##*++*@@@@@*+++%@@@@%%@@%#**+*#%%#+*%%+++++==--------=*=*==+*=+*
-+++++++*+++++*++=+++++***++**+=*%%##*%*++++@@%***==+%@@@@@%*+*%@#+**++#+=#%*++++===------**+=-=+==##+
-++++++++++++++++=+++++****+*#++#%%#**#*++*#@@@*+====*%%@@#++==+%@*****%*=#%*++++==+==+===++=+------+*
-++++++++++++++++++++++****+**=+#%%#*##*++#@@%+======*%@@#*+===+#@#+**+%*=*%#+++++=+=++=++++==++--:-+#
-++++++++++++++++++++++*******+*%%%**##+=+#%#+========+##@**+==+*%@+#%%%*++%#++*+=+==++==*+++++*=-+-=+
-++++++++++++*+++++++++****+*++*%%%#*#*+=*%%@%%%####*+=+%*+*===+*%@+#++*#=+##+=*+=++++=-++*#*+++----=-
-*****++*++++*+++++++++****+*==+%%#**#*++#@%@@@@@@@@@%%@@%##+==+*%@***#*#==%%++*++=+++-==+##+==#+==---
-##**+++***++*+*+++++++****+*==*%%#*##*++#@@@@%@%@@@@@@%@@@%+==+*%#*+***#*=*%++*++++++*++++--=**#*----
-%#***++*++++*+++++++++***++*=+#@%#*#**++#@@@@@@@@@@@@@@@@@%+=+*#@*%*#*+*==+%++++=++====*##=--=#***+++
-%%%%##*******+*+++++++***+*+++%%%**%#*++#@@@@@@@@@@@@@@@@@%+=+*%@**+##%#+==%*+++=+==---=**##**++++*+-
-%%%%%%#####****+++++++***+*+=+%%%+*##**#%@@@@@@@@@@@@@@@@@%+++#%@%+#**+#+=+%*+++==++**++++++**+++++*+
-%%%%%%%%#%##***+++++++***+#+=+%%#*#*##**#@@@@@@@@@@@@@@@@@%#**#@@*+***%%++=%#+++====+*+++#+++*#*+++**
-#%%%%%%%%######*+*++*+***+*=+#@%***+##***#%@@@@@@@@@@@@%%##**#%@%%##**#%*++%%+++++=====+==*#===+*++*#
-**#%%%%%%%###**++*******++*+*#%%#*#*##%#*++*%#*++++********##%@@##***##%**+#%+++++=====++=+*#*+=#*+*#
-*++*+#%%%%%%%%%#********+**+*%%%#++%##%#*++++=+++**+***#%%@@@@@@@@%#*##%+++#%++++++++++++**++*##**###
-*++++**%%%%%%%%%##****+*+**+*%%%#%#%##*#@%+=*=***%@@@%%@@@@@@@@@@@@%##%%***%%++++++===*#+++###*****##
-**+++***#%%%%%%%###***+*++*+*#%%#%#%*##%@##%#%%%@@@@@@@%@@@@@@@@@@@@@%%*++#%#++++++====++#****####*##
-*++++**++*#%@%%@%##****+++*+*#%%%#%%#@@@@@@%%%@@@@@@@@@@@@@@@@@@@@@@@@#*++#%*+++++++=++#*****####**##
-*+*++******#%%@%%%#***+*++#***#%%%%%@@@@@%%%%@@@@@@@@@@@@@@@@@@@@%@@@@#*+*%%+++++=++**+*****####****#
-#**++***+++#*#%@%%%##**+++#**+*#%@@@@@@@%%%%%%@@@@@@@@@@@@@@@@@@@@@@@@@#*%@*++*++*#++***********++++*
-#***+***+++**+#*%%%%#*+++**+***#%@@@@@%%%%%%%%@@@@@@@@@@@@@@@@@@@@@@@@@@%@*+++++****+*++++++++**+++**
-#***+*****+***+**##*#+++++***#++%@@@@@%%%%%%%%%@@@@@@@@@@@@@@@@@@@@@@@@@@@#+++*+++*++++++++**+***+++*
-#*******+*********#**++++*****##@@@@@%%%%%%%%%%%@@@@@@@@@@@@@@@@@@@@@@@@@@%*****++#*+*#***+*##*++****
-###****************+***+******#@@@@%%%%@@@@%%%%@@@@@@@@@@@@@@@@@@@@@@@@@@@%#****###*#**##*#***#***###
-###*##***********+***********%@@@@%%%%@@@@%%%%@@@@@@@%@@@%@@@@@%@@@@@@@@@%%#*###**#####**####**##+*##
-@@%##%##****#*+****+*****#**@@@@%%%%@@@@@%%%%%%@@@@@@%@@@@%%@@@@@@@@@@@%%@@%#######*##%##**#**####**#
-@@%%@@@@@@@@%#%#**++*#%*+*%@@@@%%%@@@@@@%%%%%%@@@@@@@@%@@%%%@@@@@@@@@@@@@@%#*#######################*
-%%%@@@@@@@@@@@@@@####%=-=%@@@%%%@@@@@@@%%%%%%@@@@@@@@@%@@%%%@@@@@%#%%##%%%%%%####################*##*
-%%%@@%@@@@@@@@@@@%%%%#*#@@@%%%@@@@@@@@%%%%%%@@@@@@@@@@%%@@%@%@@@@@@@@@%##*##%##**#############%%##**#
-%@%@@@@@@@@@@@%#######%@@%%%%@@@@@@@@%%%%%%@@@@@@@@@@@@%@@@@%@@@@@@@%%%##%%#####%%####*##*#######***+
-%@@@@@@@@@@%########%@@%%%%%@@@@@@@@%%%%%%@@@@@@@@@@@@@%@@@@%@@@%%%%%###%##%%%%**##**####*###*###**##
-%@@@@@@@%##*###***#@@@%%%%@@@@@@@@%%%%%%%@@@@@@@@@@@@@@@%@@@%%%%%%%#*#@%%@@@@@@#**#******###%%####*##
-@@@@%######*###*#@@%%%%%@@@@@@@@%%%%%%%%%@@@@@@@@@@@@@@@%@@@%%@%#++#@@#%@%%@@@@*****#######*****##***
-##*****#******#@@%%%%%@@@@@@@@@%%%%%%%%%@@@@@@@@@@@@@@@@@%@@%####%@@@%@@%%@@@%@@******#*########***##
-****#******##%@@%%%%%@@@@@@@@@%%%%%%%%%%@@@@@@@@@@@@@@@@@@%###%#@@@%@@@%%%%@%@@@%#***############%###
-#####**#**%@%%%%%%@@@@@@@@@@@@%%%%%%%%%%@@@@@@@@@@@@@@@@%%%%%%#%@@%%@@@@@%@@@@@%####%######***##*++*#
-**##*#*#**#@%%%%@@@@@@@@@@@@@%%%%%%%%%%@@@@@@@@@@@@@@@@%%%@@%#%%@@%@@@%%%%#########**##****++*##*#**#
-*##***#****#@@%@@@@@@@@@@@@@@%%%%%%%%%%@@@@@@@@@@@@@@@@%@%%%##%@@%%@@@@@@@%%@@@@@@%*####**#%###**####
-*************%@@@@@@@@@@@@%%%%%%%%%%%%@@@@@@@@@@@%%%@@@@@%##%@%@@@%@@@@@@@@%@@%%%%%#*#######**#****#*
-++++*+****++++*%@@@@@@@@@%%%%%%%%%%%%@@@@@@@@@@%%%%%%%@@@%%%%@@@@@@@@@@@@@@%%%###%*###*##**#****#****
-++++=*+***+++++*#%@@@@@@@@@%%%%%%%%%%%@@@@@@@@%%%%%%%%%@@@@@@@@@@@%%@@@@@@@@%##*##%####**********+##*
-****+**+++++++**+++*%@@@@@@@@@%%@%%%%@@@@@@%%%%%%%%%%%%%@@@@@@@@@%@@@%%%@@@%#**%%##*#**#%%#*****+##+*
-****++*++++++***+*+*+**%@@@@%@@@@%@@@@@@@%%%%%@@@@@@@@@@@@@@@@%%%@@@@@@@@#**%*%##%#*********#**+**++*
-+++++++++++++*+**+*+++++**#*###%%%%@@@#****####%%%@@@@@@@@@@@@@@@@@@%%%#***%####%##**%%#**+*#**#**+#*
-++++++++++++*+++++*++*++****+++*##****++*++**+*#####@@@@@@@@@@@@@@@@@%#%##%@#%%#####**##****+*##***#*
-++*++*+++++++===++===++******+**+**+++*#**+++****#**%%%@@@@@@@@@@@@%###%@%#%##@%**#@@%******##%**+#*+
-++++=++++++=+=+++=++**+=++++*++=+++**++***+****+****+**@@@@@@@@@@%%#%@@#%%*%@#*#%*#+#%*****####+*++*=
-+*+++++++++**+++*+++=++++==++++++*+*++++++++++++*++*++#@@@@@@@@@%#%@#%@##%##*##**#%#*#%#****###**+%%+
-++=++++++++**++++++++++++==+++++*+++++++**+*++++**+*++***++*+****##%%##%%%*##*#***#*+*****##%#%#+*%*+
-+++=+++==++++=======++++=+==++++*++++++++*++++*+*+++**++++++++++++***#++*%%#****%%*++*****#%#%@%+*#%#
-==++=+++===+++++++=+==++==++++++=++++=+==++***+++++++***+++++++++***++*###*%#*###**+*+*****%%%%@+*%@%
-```
 ---
 
 ## Vamos nos conectar?
 
-**LinkedIn:** https://www.linkedin.com/in/anna-clara-de-medeiros-gonçalves-b6537a2ba?utm_source=share_via&utm_content=profile&utm_medium=member_ios
+**LinkedIn:** [Anna Clara de Medeiros Gonçalves](https://www.linkedin.com/in/anna-clara-de-medeiros-gonçalves-b6537a2ba)
 
-**Portfólio:** [Meu Portfólio](#)
+**Portfólio:** [Acesse meu Portfólio](https://annaa-clara.github.io/anna-clara-portfolio/)
 
-**GitHub:** https://github.com/AnnaClara-devsoftware
-
----
-
+**GitHub:** [@Annaa-Clara](https://github.com/Annaa-Clara/Annaa-Clara)
