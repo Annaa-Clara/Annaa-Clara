@@ -23,8 +23,10 @@ Atualmente, dedico-me ao estudo profundo das linguagens **Java (com ecossistema 
 
 Uma plataforma que analisa projetos de software automaticamente. Você sobe um .zip do seu código, e ela te devolve um diagnóstico completo.
 
-Acesse o projeto: [OpsPilot Online]https://ops-pilot-lac.vercel.app/
-Código-Fonte: [Repositório no GitHub]https://github.com/Annaa-Clara/ops-pilot
+Acesse o projeto: [OpsPilot Online]
+https://ops-pilot-lac.vercel.app/
+Código-Fonte: [Repositório no GitHub]
+https://github.com/Annaa-Clara/ops-pilot
 
 **Tecnologias:**
 Python, Spring Boot, Spring Security, JWT, Spring Data JPA, API REST, PostgreSQL, Celery + Redis, Pydantic, JWT + Refresh Token + Bcrypt, Pytest
