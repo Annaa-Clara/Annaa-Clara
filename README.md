@@ -1,4 +1,4 @@
-# Olá, eu sou Anna Clara <img src="https://raw.githubusercontent.com/MartinMuzatko/gif-emojis/master/gif/wave.gif" width="30px">
+# Olá, eu sou Anna Clara 👋
 
 ### Bacharelanda em Engenharia de Software | Desenvolvedora Backend em formação
 
